@@ -7,6 +7,9 @@ Project of API Rest Spring WebFlux with MongoDB
 ## Features 💻
 
 - [x] Conection with BD Mongo
+- [x] Populating database with rest POST API.
+- [x] Implemented query of the entire playlist that is in the database, through REST GET API.
+- [x] Implemented query of a specific playlist that is in the database, through Id and with API REST GET.
 
 ## Technologies ⚙️
 
