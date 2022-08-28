@@ -14,7 +14,7 @@ import static org.springframework.web.reactive.function.BodyInserters.fromPublis
 
 import reactor.core.publisher.Mono;
 
-@Component
+//@Component
 public class PlaylistHandler {
 
     @Autowired
